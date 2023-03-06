@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDemo", "GenericDemo.csproj", "{BE65E897-18A2-4840-A5D5-14B407F75A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaximumGeneric", "..\GenericMaximum\FindMaximumGeneric.csproj", "{0E2AE41D-325E-4F90-BA22-73529985E45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE65E897-18A2-4840-A5D5-14B407F75A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE65E897-18A2-4840-A5D5-14B407F75A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE65E897-18A2-4840-A5D5-14B407F75A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE65E897-18A2-4840-A5D5-14B407F75A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2AE41D-325E-4F90-BA22-73529985E45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2AE41D-325E-4F90-BA22-73529985E45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2AE41D-325E-4F90-BA22-73529985E45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2AE41D-325E-4F90-BA22-73529985E45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4DF7AC-6047-4D82-A66E-FAD12E82C9A0}
+	EndGlobalSection
+EndGlobal
